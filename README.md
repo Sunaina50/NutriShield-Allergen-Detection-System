@@ -27,4 +27,9 @@
 🚀 Expand the allergen database with more food items.  
 🚀 Add a feature to save user history for better tracking.  
 
+![image](https://github.com/user-attachments/assets/02cf043d-7b8a-425d-8637-0465466d2d3d)
+![image](https://github.com/user-attachments/assets/737628a7-7a95-4f6e-9ba4-79d3b963bd95)
+![image](https://github.com/user-attachments/assets/16b2c707-3492-472d-af1c-ef513eb5d125)
+
+
 ---
